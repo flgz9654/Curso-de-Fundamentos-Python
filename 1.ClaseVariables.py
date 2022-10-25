@@ -6,6 +6,7 @@ print(my_name)
 my_age = 12
 print(my_age)
 
+# Reutilizando las variables se puede cambiar su contenido anterior
 my_name = 'Luis'
 print('Aqui cambio', my_name)
 
