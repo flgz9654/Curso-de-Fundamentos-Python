@@ -16,11 +16,11 @@ Con la palabra reservada print() puedes imprimir por consola las variables que v
 En programación, el tipo de datos es un concepto importante. Las variables pueden almacenar datos de diferentes tipos, y diferentes tipos pueden hacer cosas diferentes.
 
 Python tiene los siguientes tipos de datos integrados de forma predeterminada, en estas categorías:
-Text Type:	str
-Numeric Types:	int, float, complex
-Sequence Types:	list, tuple, range
-Mapping Type:	dict
-Set Types:	set, frozenset
-Boolean Type:	bool
-Binary Types:	bytes, bytearray, memoryview
-None Type:	NoneType
+- Text Type: str
+- Numeric Types: int, float, complex
+- Sequence Types: list, tuple, range
+- Mapping Type:	dict
+- Set Types: set, frozenset
+- Boolean Type:	bool
+- Binary Types:	bytes, bytearray, memoryview
+- None Type: NoneType
